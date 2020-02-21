@@ -11,6 +11,6 @@
 - Please create api file 'key.js' in `/src`
 - Export default 'YOUR_X-API-KEY'
 - npm install
-- npm create 
+- npm start 
 
 
